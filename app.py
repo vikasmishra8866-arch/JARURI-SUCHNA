@@ -64,6 +64,6 @@ if st.button("GET RC BOOK"):
 # 3. Important Notice in Hindi (Centre aligned and inside a box)
 st.markdown("""
     <div class="info-box">
-        जरूरी सूचना: 09/04/2026 से RC का चार्ज सिर्फ 67 रुपया हो गया है।
+        जरूरी सूचना: 09/04/2026 से RC का चार्ज सिर्फ 71 रुपया हो गया है।
     </div>
     """, unsafe_allow_html=True)
