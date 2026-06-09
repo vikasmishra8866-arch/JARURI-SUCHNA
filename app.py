@@ -64,6 +64,6 @@ if st.button("GET RC BOOK"):
 # 3. Important Notice in Hindi (Centre aligned and inside a box)
 st.markdown("""
     <div class="info-box">
-        जल्दी करें! आज 08/06/2026 को स्पेशल ऑफर — 3 RC बुक बिल्कुल फ्री, कोई चार्ज नहीं। ऑफर सिर्फ 1 घंटे के लिए है: 2:15 से 3:15. मौका हाथ से न जाने दें!
+        🔔 ध्यान दें! सभी को सूचित किया जा रहा है कि 09/06/2026 से RC का चार्ज 39 रुपये कर दिया गया है।
     </div>
     """, unsafe_allow_html=True)
